@@ -78,7 +78,7 @@ a
 .projects:hover,
 .contact:hover
 {
-   border-bottom: 0.1rem solid yellow;
+   border: 0.1rem solid yellow;
 }
 
 @media screen and (max-width: 750px) {
@@ -140,8 +140,8 @@ a
    font-size: 3rem;
    font-weight: bold;
 }
-.alone,
-.rider
+.shivam,
+.kumar
 {
    color: yellow; 
    font-size: 3rem;
@@ -152,6 +152,19 @@ a
    color: white; 
    font-size: 1.7rem;
    font-weight: bold;
+}
+@media screen and (max-width: 750px) {
+    .im{
+         font-size: 2.5rem;
+    }
+    .shivam,
+    .kumar{
+         font-size: 2.5rem;
+    }
+    .frontend{
+         font-size: 1.5rem;
+    }
+          
 }
 .links
 {
@@ -604,5 +617,6 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
