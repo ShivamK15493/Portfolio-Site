@@ -61,7 +61,7 @@
 .contact
 {
     width: 4rem;
-    height: 1.3rem;
+    height: 1.28rem;
     color: white;
     display: flex;
     align-items: center;
@@ -617,6 +617,7 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
 
