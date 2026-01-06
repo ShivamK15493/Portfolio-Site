@@ -432,7 +432,8 @@ a
 }
 .faceContents,
 .instaContents,
-.calculateContents
+.calculateContents,
+.BioContents
 {
     width: 20rem;
     height: 12.7rem;
@@ -455,7 +456,8 @@ a
 }
 .facebookpic,
 .instagrampic,
-.calculatepic
+.calculatepic,
+.Biodatapic
 {
     width: 20rem;
     height: 11.3rem;
@@ -463,7 +465,8 @@ a
 }
 .facebookpic img,
 .instagrambox img,
-.calculatepic img
+.calculatepic img,
+.Biodatapic img
 {
     width: 100%;
     height: auto;
@@ -475,13 +478,15 @@ a
     background-color: aqua;
     border: 0.01rem solid white;
 }
-.calculator
+.calculator,
+.BioDataChecker
 {
     width: 20rem;
     height: 24rem;
     background-color: aqua;
     border: 0.01rem solid white; 
 }
+
 .contactme
 {
     margin-top: 1rem;
