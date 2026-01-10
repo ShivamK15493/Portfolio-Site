@@ -9,7 +9,6 @@
     background-color: black;
     border: 0.1 solid orange;
     display: flex;
-    position: fixed;
     border-bottom: 0.001rem solid white;
 }
 .name
@@ -199,6 +198,24 @@ a
     width: 22rem;
     height: 26rem;
     border-radius: 6.5rem;
+    position: relative; /* Provide Dynamic position to the image */
+    animation: updown 3.5s; /*animation name,animation duartion */
+    animation-timing-function: ease-in-out; /* start slow, fast in middle , slow at end */
+    animation-iteration-count: infinite; /* Number of times animation runs */
+}
+@keyframes updown {
+    0%
+    {
+        top: 0rem;
+    }
+    50%
+    {
+        top: 0.8rem;
+    }
+    100%
+    {
+        top: 0rem;
+    }
 }
 .linkup
 {
@@ -622,6 +639,7 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
 
