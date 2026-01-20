@@ -355,13 +355,13 @@ a
 }
 .cssScore
 {
-    width: 80%;
+    width: 81%;
     height: 1rem;
     background-color: yellow; 
 }
 .javascriptscore
 {
-    width: 70%;
+    width: 73%;
     height: 1rem;
     background-color: yellow; 
 }
@@ -649,6 +649,7 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
 
