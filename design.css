@@ -10,6 +10,16 @@
     border: 0.1 solid orange;
     display: flex;
     border-bottom: 0.001rem solid white;
+    animation: headAnimation 1s forwards; /* forwards keep the final state after timing ends */
+    opacity: 0;
+    animation-delay: 0.7s;
+}
+@keyframes headAnimation {
+    
+    to
+    {
+       opacity: 1;
+    }
 }
 .name
 {
@@ -639,6 +649,7 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
 
