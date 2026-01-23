@@ -616,16 +616,21 @@ a
     color: white;
     font-size: 1.7rem;
 }
+.cl a
+{
+    color: white;
+}
 .click
 {
     margin-left: 2rem;
     width: 7rem;
     height: 2.5rem;
-    background-color: orange;
+    background-color: rgb(49, 207, 24);
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 1.4rem;
+    border: 0.01rem solid white;
     font-size: 0.9rem;
     font-family: arial;
     font-weight: bold;
@@ -649,6 +654,7 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
 
