@@ -461,7 +461,8 @@ a
 .faceContents,
 .instaContents,
 .calculateContents,
-.BioContents
+.BioContents,
+.WeatherContents
 {
     width: 20rem;
     height: 12.7rem;
@@ -485,7 +486,8 @@ a
 .facebookpic,
 .instagrampic,
 .calculatepic,
-.Biodatapic
+.Biodatapic,
+.Weatherpic
 {
     width: 20rem;
     height: 11.3rem;
@@ -494,7 +496,8 @@ a
 .facebookpic img,
 .instagrambox img,
 .calculatepic img,
-.Biodatapic img
+.Biodatapic img,
+.Weatherpic img
 {
     width: 100%;
     height: auto;
@@ -507,7 +510,8 @@ a
     border: 0.01rem solid white;
 }
 .calculator,
-.BioDataChecker
+.BioDataChecker,
+.Weather
 {
     width: 20rem;
     height: 24rem;
@@ -657,7 +661,6 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
-
 
 
 
