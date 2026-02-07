@@ -6,9 +6,9 @@
 {   
     width: 100%;
     height: 4rem;
-    background-color: red;
+    background-color: black;
     display: flex;
-    border-bottom: 0.001rem solid yellow;
+    border-bottom: 0.001rem solid red;
     animation: headAnimation 1s forwards; /* forwards keep the final state after timing ends */
     opacity: 0;
     animation-delay: 0.7s;
@@ -661,6 +661,7 @@ a
     padding-bottom: 1rem;
     text-align: center;
 }
+
 
 
 
