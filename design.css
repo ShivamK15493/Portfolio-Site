@@ -463,7 +463,7 @@ a
 .faceContents,
 .instaContents,
 .calculateContents,
-.BioContents,
+.CompContents,
 .WeatherContents
 {
     width: 20rem;
@@ -488,7 +488,7 @@ a
 .facebookpic,
 .instagrampic,
 .calculatepic,
-.Biodatapic,
+.Complookpic,
 .Weatherpic
 {
     width: 20rem;
@@ -498,7 +498,7 @@ a
 .facebookpic img,
 .instagrambox img,
 .calculatepic img,
-.Biodatapic img,
+.Complookpic img,
 .Weatherpic img
 {
     width: 100%;
@@ -507,7 +507,7 @@ a
 .instagrambox,
 .facebookbox,
 .calculator,
-.BioDataChecker,
+.Complook,
 .Weather
 {
     width: 20rem;
@@ -518,7 +518,7 @@ a
 .instagrambox:hover,
 .facebookbox:hover,
 .calculator:hover,
-.BioDataChecker:hover,
+.Complook:hover,
 .Weather:hover
 {
     width: 20.02rem;
