@@ -475,6 +475,7 @@ a
 .faceContents,
 .instaContents,
 .calculateContents,
+.gradeContents,
 .CompContents,
 .WeatherContents
 {
@@ -500,6 +501,7 @@ a
 .facebookpic,
 .instagrampic,
 .calculatepic,
+.studentGradepic,
 .Complookpic,
 .Weatherpic
 {
@@ -510,6 +512,7 @@ a
 .facebookpic img,
 .instagrambox img,
 .calculatepic img,
+.studentGradepic img,
 .Complookpic img,
 .Weatherpic img
 {
@@ -519,6 +522,7 @@ a
 .instagrambox,
 .facebookbox,
 .calculator,
+.studentGradeSystem,
 .Complook,
 .Weather
 {
@@ -530,6 +534,7 @@ a
 .instagrambox:hover,
 .facebookbox:hover,
 .calculator:hover,
+.studentGradeSystem:hover,
 .Complook:hover,
 .Weather:hover
 {
